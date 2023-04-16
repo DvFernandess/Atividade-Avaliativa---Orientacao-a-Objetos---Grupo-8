@@ -44,3 +44,9 @@ class Sala:
     def __init__(self, numero, capacidade):
         self.numero = numero
         self.capacidade = capacidade
+        
+  #class Ingresso:
+   # def __init__(self, sessao, cliente, quantidade):
+    #    self.sessao = sessao
+     #   self.cliente = cliente
+      #  self.quantidade = quantidade
